@@ -1,0 +1,14 @@
+# Data Manipulation
+pandas
+numpy
+
+# Statistical Visualization (Static)
+seaborn
+matplotlib
+
+# Interactive Visualization
+plotly
+nbformat
+
+# Dashboard Framework (For the dashboard.py file)
+streamlit
