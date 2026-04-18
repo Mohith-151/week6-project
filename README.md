@@ -34,7 +34,8 @@ In the spirit of professional transparency and modern development practices, thi
 3.  **Frontend Implementation:** I collaborated with an AI assistant to rapidly translate my architectural requirements into Streamlit code. Specifically, I provided detailed prompts for the button-trigger logic and session-state management to ensure a smooth user experience.
 **the prompt i gave is:**
 
-'''prompt
+```prompt
+
 okay the layout and the charts i will say at once. read carefully and give a small summary on what u understood then when i say code u code.
 
 1. i don't need side bars.
@@ -48,7 +49,8 @@ visual 1 : a card to show the total revenue of that selected product category.(m
 visual 2:  beside the total revenue card, place another card to show the total qunatity sold.
 visual 3: the chart, after or below the cards a chart hmmm a plotly scatter plot to show the product details: having the quantity sold, price per unit, shop name,  product name, total sales.
 visual 4: another chart beside that scatter plotly chart, rgt side, a bar chart to show the top 3 product of the selected product category.
-'''
+
+```
 
 ---
 
